@@ -272,7 +272,7 @@
     "commit_sha": "b1e145115f90060e515a0ad703f0a4ffa398f993",
     "fuzzer": "replay",
     "ok": true,
-    "count": 369194,
+    "count": 369195,
     "seed_timestamp_start": 1780261954,
     "seed_timestamp_end": 1780261955,
     "seed": 18296762182625469872,
